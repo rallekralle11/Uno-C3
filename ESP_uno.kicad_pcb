@@ -149,7 +149,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "e1d26cf2-acb7-4e9f-aa8e-fc3458d76c62")
@@ -1336,7 +1336,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "4058604e-abf4-44c0-826c-09286f5e9214")
@@ -3728,7 +3728,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "5dd47cf2-9697-4d08-a8bf-63196d87d793")
@@ -4499,7 +4499,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "f42f4cf7-2621-4e67-8ef2-f365d2e3f589")
@@ -9210,7 +9210,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "3a030907-5b68-4c57-b7c6-15c16df6c411")
@@ -9679,7 +9679,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "661ac4b8-f14a-4843-bdbb-abdb1be19f3b")
@@ -10126,7 +10126,7 @@
 			(roundrect_rratio 0.25)
 			(net 48 "unconnected-(U2-FB-Pad4)")
 			(pinfunction "FB")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "e4391e58-6c33-40a5-9745-39be7178fc42")
 		)
 		(pad "5" smd roundrect
@@ -10862,7 +10862,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "c59a7b88-acbc-49a8-a448-d76e2a034d43")
@@ -11794,7 +11794,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "45e02513-7839-457a-af2c-0d4016faafba")
@@ -12008,7 +12008,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "6a5371ee-5c47-4650-a62f-3d44677c6db9")
@@ -13529,7 +13529,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "7db37fde-bf60-45c3-a032-c828b12aac14")
@@ -13743,7 +13743,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "5247ff6e-7179-46b3-a5db-bd1ae739a104")

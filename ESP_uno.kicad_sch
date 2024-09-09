@@ -4920,6 +4920,10 @@
 		(uuid "22b995a3-c46c-430a-bac4-8b6820859e45")
 	)
 	(no_connect
+		(at 87.63 60.96)
+		(uuid "35662c1e-e81a-4add-b08a-6537bdc3d4b2")
+	)
+	(no_connect
 		(at 167.64 78.74)
 		(uuid "48c50e69-064a-4d7e-8225-8ac4c344bb7e")
 	)
@@ -8422,7 +8426,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 93.98 60.9662 0)
 			(effects
 				(font
@@ -9301,7 +9305,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 54.61 59.69 90)
 			(effects
 				(font
@@ -9637,7 +9641,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 140.97 34.2962 0)
 			(effects
 				(font
@@ -9837,7 +9841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 115.57 87.6362 0)
 			(effects
 				(font
@@ -11525,7 +11529,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 56.134 68.072 90)
 			(effects
 				(font
@@ -11660,7 +11664,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 29.21 101.6 0)
 			(effects
 				(font
@@ -11800,7 +11804,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 19.05 104.1462 0)
 			(effects
 				(font
@@ -11870,7 +11874,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 59.69 60.9662 0)
 			(effects
 				(font
@@ -12092,7 +12096,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 134.874 34.29 90)
 			(effects
 				(font
@@ -12732,7 +12736,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5,1k"
 			(at 175.26 50.8 0)
 			(effects
 				(font
@@ -13297,7 +13301,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "TBD"
 			(at 118.11 100.3362 0)
 			(effects
 				(font
