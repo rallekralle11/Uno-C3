@@ -4821,7 +4821,7 @@
 		(pad "1" smd rect
 			(at 0 0)
 			(size 1 30.6)
-			(layers "F.Cu" "F.Paste" "F.Mask")
+			(layers "F.Cu")
 			(net 46 "Net-(AE1-A)")
 			(pinfunction "A")
 			(pintype "input")
